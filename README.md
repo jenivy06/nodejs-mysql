@@ -8,7 +8,7 @@ This app was created using Node.js, MySQL, and the Inquirer NPM package. See scr
 
 ![sequel](screenshots/sequel.png)
 
-![intial](screenshots/intiial.png)
+![intial](screenshots/intitial.png)
 
 ![sequel](screenshots/howmany.png)
 
