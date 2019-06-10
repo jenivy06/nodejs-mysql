@@ -52,7 +52,12 @@ function Product(item_id, stock_quantity) {
         name: 'productid',
         message: 'What is the item_id of the product you want',
         choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11'],
-      },
+      }, {
+        
+        name: 'units',
+        message: 'How many do you want to buy?',
+        
+      }
     ])
     .then(answers => {
       console.info('Answer:', answers.productid);
